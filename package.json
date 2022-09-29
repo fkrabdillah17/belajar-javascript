@@ -1,0 +1,24 @@
+{
+  "name": "belajar-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkrabdillah17/belajar-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkrabdillah17/belajar-javascript/issues"
+  },
+  "homepage": "https://github.com/fkrabdillah17/belajar-javascript#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
